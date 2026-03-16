@@ -8,7 +8,7 @@ TPE TD
 
 Dans le cadre de ce projet de développement web, l'objectif principal
 était de créer un site internet interactif qui présente des sites touristiques
-majeurs à travers le monde. Vous pouvez consulter le code source
+majeurs à travers le monde. Vous pouvez consulter le site web ici "  https://revine24.github.io/My-1st-website/" et le code source
 complet du projet sur GitHub à l'adresse suivante :
 « https://github.com/Revine24/SAE105 ».
 
